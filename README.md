@@ -7,6 +7,6 @@ The indicator displays overbought/oversold states and whether the RSI is rising 
 ![A multi-timeframe RSI panel with an in-range example](https://github.com/EarnForex/RSI-Multi-Timeframe/blob/main/mtf-rsi-panel-in-range-example.png)
 
 A detailed description of the indicator can be found here:
-https://www.earnforex.com/metatrader-indicators/rsi-multi-timeframe/
+https://www.earnforex.com/indicators/rsi-multi-timeframe/
 
 Any contributions to the code are welcome!
